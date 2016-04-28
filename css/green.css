@@ -285,7 +285,8 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-testimonials,
 #fh5co-pricing,
 #fh5co-press {
-  padding: 7em 0;
+  padding-top: 50px;
+  padding-bottom: 0px;
 }
 @media screen and (max-width: 480px) {
   #fh5co-our-services,
@@ -458,7 +459,7 @@ h1, h2, h3, h4, h5, h6 {
   background: #fff;
   text-align: center;
   color: #7f7f7f;
-  margin-bottom: 70px;
+  margin-bottom: 30px;
   position: relative;
 }
 @media screen and (max-width: 992px) {
