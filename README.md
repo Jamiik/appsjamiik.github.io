@@ -1,2 +1,2 @@
-# jamiik.github.web.apps
+# appsjamiik.github.io
 Jamiik institution/foundation website
